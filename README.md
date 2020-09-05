@@ -7,7 +7,7 @@ Code still needs to be refactored! This will happen shortly. If you want to play
 
 1. Using the AIR module at https://pyro.ai/examples/air.html, we generated a second dataset, consisting of objects found by the module, and their position and scale latents.
 
-1. We downloaded the original RAVEN code, available at https://github.com/WellyZhang/RAVEN, on which to build this project. Download this and replace the model folder with ours to run our code.
+1. We downloaded the original RAVEN code, available at https://github.com/WellyZhang/RAVEN, on which to build this project. Download this and copy across the files in our repo, under src/model.
 
 1. With those datasets (which we will also be uploading), one can train the models like so:
 
